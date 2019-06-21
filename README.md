@@ -1,4 +1,4 @@
-# FDwave ver.2.0
+# FDwave ver. 1.0
 
 The pacakage was developed to demostrate the use of vectorized fd operator 
 for the simulation of elastic seismic waves.
