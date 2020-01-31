@@ -44,7 +44,7 @@ Further help about a function (with name say fun_name) can be obtained by typing
 
 1) Malkoti, A., Vedanti, N., Tiwari, R. K., 2018. An algorithm for fast elastic wave simulation using a vectorized finite difference operator. Computers & Geosciences 116, 23-31
 
-2) Malkoti, A., Vedanti, N., Tiwari, R. K., 2018. Viscoelastic modeling with a vectorized finite difference operator. (submitted to Computers & Geosciences)
+2) Malkoti, A., Vedanti, N., Tiwari, R. K., 2018. Viscoelastic modeling with a vectorized finite difference operator. 
 
 
 
