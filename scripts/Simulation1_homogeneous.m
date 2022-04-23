@@ -2,7 +2,7 @@ clc; close all; clear all;
 
 %% This part will setup all the FDwave programcode_path='F..\FDwave';   % Path of FD code files
 clc; close all; clear all;
-code_path='..\FDwave';                                                                    % Path of FD code files 
+code_path='../FDwave';                                                                    % Path of FD code files 
 addpath(code_path);                                                                        % Add the code folder to the current command space
 wf_path=pwd;                                                                                   % where you want to store your data. PWD means the current directory
 FDwave_initialize('CP',code_path,'WFP',wf_path,'verbose','n');     % do necessary steps for initialization
